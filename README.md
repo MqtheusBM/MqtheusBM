@@ -2,8 +2,11 @@
 👽 Me chamo, Matheus!
 <br>
 🎓 Cursando Ciências da Computação - UERR
+<br>
 🌌 Estou em constante aprendizado
+<br>
 💞️ Estou colaborando a minha jornada Dev e todos os meus estudos de Computação
+<br>
 🍀 Espero que possa contribuir com aqueles que são apaixonados por Programação!
 
 
