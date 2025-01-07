@@ -1,4 +1,12 @@
-## Hi there 👋
+## Bem-Vindos ao meu GitHub! ⭐
+👽 Me chamo, Matheus!
+🎓 Cursando Ciências da Computação - UERR
+🌌 Estou em constante aprendizado
+💞️ Estou colaborando a minha jornada Dev e todos os meus estudos de Computação
+🍀 Espero que possa contribuir com aqueles que são apaixonados por Programação!
+
+
+
 
 <!--
 **MqtheusBM/MqtheusBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
