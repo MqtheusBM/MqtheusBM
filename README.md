@@ -1,5 +1,6 @@
 ## Bem-Vindos ao meu GitHub! ⭐
 👽 Me chamo, Matheus!
+<br>
 🎓 Cursando Ciências da Computação - UERR
 🌌 Estou em constante aprendizado
 💞️ Estou colaborando a minha jornada Dev e todos os meus estudos de Computação
