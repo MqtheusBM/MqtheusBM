@@ -1,13 +1,22 @@
-## Bem-Vindos ao meu GitHub! ⭐
-👽 Me chamo, Matheus!
+<h2> Bem-Vindos ao meu GitHub! ⭐</h2>
+🤖 Me chamo, Matheus!
 <br>
 🎓 Cursando Ciências da Computação - UERR
 <br>
 🌌 Estou em constante aprendizado
 <br>
-💞️ Estou colaborando a minha jornada Dev e todos os meus estudos de Computação
+🧑‍💻 Estou colaborando a minha jornada Dev e todos os meus estudos de Computação
 <br>
 🍀 Espero que possa contribuir com aqueles que são apaixonados por Programação!
+<br><br>
+<div>
+  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img width="45px" src="https://quantumzeitgeist.com/wp-content/uploads/pythoned.png">
+</div>
+
+
 
 
 
