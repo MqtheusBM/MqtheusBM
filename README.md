@@ -14,6 +14,9 @@
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img width="45px" src="https://quantumzeitgeist.com/wp-content/uploads/pythoned.png">
+  <img width="45px" src="https://www.cnet.com/a/img/resize/48ae818c2effd33a6567c14457d2be9c76e8012e/hub/2011/11/23/10b641da-67d7-11e3-a665-14feb5ca9861/Dart_logo.png?auto=webp&fit=crop&height=1200&width=1200">
+  <img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
+
 </div>
 
 
